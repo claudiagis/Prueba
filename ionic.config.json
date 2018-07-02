@@ -1,0 +1,8 @@
+{
+  "name": "appmanup",
+  "app_id": "ff9d8168",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
